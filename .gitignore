@@ -1,0 +1,12 @@
+
+ImGui\bin
+
+ImGui\bin-int
+
+ImGui\.vcxproj
+
+ImGui\.vcxproj\.user
+
+bin/
+
+bin-int/
